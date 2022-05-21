@@ -11,5 +11,5 @@ In business-to-consumer marketing, companies often segment customers according t
 * Location (urban, suburban, rural)
 * Life stage (single, married, divorced, empty-nester, retired, etc.)
 
-These customer segmentation groups can also be used to begin discussions of building a marketing persona. This is because customer segmentation is typically used to inform a brand’s messaging, positioning and to improve how a business sells – so marketing personas need to be closely aligned to those customer segments in order to be effective
+These customer segmentation groups can also be used to begin discussions of building a marketing persona. This is because customer segmentation is typically used to inform a brand’s messaging, positioning and to improve how a business sells – so marketing personas need to be closely aligned to those customer segments in order to be effective.
 
